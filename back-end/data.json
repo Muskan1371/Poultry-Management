@@ -1,0 +1,424 @@
+{
+    "customers": [],
+    "orders": [
+        {
+            "email": "smith@website.com",
+            "orderdate": "19-Mar-2024",
+            "total": 8000,
+            "products": [
+                {
+                    "_id": "65f2c8da16636a143130af31",
+                    "qty": 6,
+                    "title": "Bird Cage",
+                    "description": "Steel high quality cage",
+                    "image": "prod-img1.jpg",
+                    "specification": [
+                        {
+                            "id": 1,
+                            "value": "Dimensions: 24\" x 24\" x 36\"",
+                            "_id": "65f2c8da16636a143130af32"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Color: Black",
+                            "_id": "65f2c8da16636a143130af33"
+                        }
+                    ],
+                    "material": [
+                        {
+                            "id": 1,
+                            "value": "Steel",
+                            "_id": "65f2c8da16636a143130af34"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Plastic",
+                            "_id": "65f2c8da16636a143130af35"
+                        }
+                    ],
+                    "cost": 500,
+                    "__v": 0
+                },
+                {
+                    "_id": "65f2ca05af4481aa8db840f5",
+                    "qty": 9,
+                    "image": "prod-img1.jpg",
+                    "title": "Poultry Feed",
+                    "description": "High-quality feed for poultry birds",
+                    "specification": [
+                        {
+                            "id": 1,
+                            "value": "Weight: 20 kg",
+                            "_id": "65f2ca05af4481aa8db840f6"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Protein content: 18%",
+                            "_id": "65f2ca05af4481aa8db840f7"
+                        }
+                    ],
+                    "material": [
+                        {
+                            "id": 1,
+                            "value": "Maize",
+                            "_id": "65f2ca05af4481aa8db840f8"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Soybean Meal",
+                            "_id": "65f2ca05af4481aa8db840f9"
+                        }
+                    ],
+                    "cost": 800,
+                    "__v": 0
+                },
+                {
+                    "_id": "65f2ca29af4481aa8db840fb",
+                    "qty": 2,
+                    "image": "prod-img1.jpg",
+                    "title": "Egg Incubator",
+                    "description": "Automatic egg incubator for hatching eggs",
+                    "specification": [
+                        {
+                            "id": 1,
+                            "value": "Capacity: 50 eggs",
+                            "_id": "65f2ca29af4481aa8db840fc"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Temperature range: 20°C - 40°C",
+                            "_id": "65f2ca29af4481aa8db840fd"
+                        }
+                    ],
+                    "material": [
+                        {
+                            "id": 1,
+                            "value": "Plastic",
+                            "_id": "65f2ca29af4481aa8db840fe"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Glass",
+                            "_id": "65f2ca29af4481aa8db840ff"
+                        }
+                    ],
+                    "cost": 1500,
+                    "__v": 0
+                }
+            ]
+        },
+        {
+            "email": "smith@website.com",
+            "orderdate": "18-Mar-2024",
+            "qty": 4,
+            "total": 14000,
+            "products": [
+                {
+                    "_id": "65f2c8da16636a143130af31",
+                    "title": "Bird Cage",
+                    "description": "Steel high quality cage",
+                    "image": "prod-img1.jpg",
+                    "specification": [
+                        {
+                            "id": 1,
+                            "value": "Dimensions: 24\" x 24\" x 36\"",
+                            "_id": "65f2c8da16636a143130af32"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Color: Black",
+                            "_id": "65f2c8da16636a143130af33"
+                        }
+                    ],
+                    "material": [
+                        {
+                            "id": 1,
+                            "value": "Steel",
+                            "_id": "65f2c8da16636a143130af34"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Plastic",
+                            "_id": "65f2c8da16636a143130af35"
+                        }
+                    ],
+                    "cost": 500,
+                    "__v": 0
+                },
+                {
+                    "_id": "65f2ca05af4481aa8db840f5",
+                    "image": "prod-img1.jpg",
+                    "qty": 5,
+                    "title": "Poultry Feed",
+                    "description": "High-quality feed for poultry birds",
+                    "specification": [
+                        {
+                            "id": 1,
+                            "value": "Weight: 20 kg",
+                            "_id": "65f2ca05af4481aa8db840f6"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Protein content: 18%",
+                            "_id": "65f2ca05af4481aa8db840f7"
+                        }
+                    ],
+                    "material": [
+                        {
+                            "id": 1,
+                            "value": "Maize",
+                            "_id": "65f2ca05af4481aa8db840f8"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Soybean Meal",
+                            "_id": "65f2ca05af4481aa8db840f9"
+                        }
+                    ],
+                    "cost": 800,
+                    "__v": 0
+                }
+            ]
+        },
+        {
+            "email": "smith@website.com",
+            "orderdate": "18-Mar-2024",
+            "total": 11000,
+            "products": [
+                {
+                    "_id": "65f2c8da16636a143130af31",
+                    "qty": 3,
+                    "title": "Bird Cage",
+                    "description": "Steel high quality cage",
+                    "image": "prod-img1.jpg",
+                    "specification": [
+                        {
+                            "id": 1,
+                            "value": "Dimensions: 24\" x 24\" x 36\"",
+                            "_id": "65f2c8da16636a143130af32"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Color: Black",
+                            "_id": "65f2c8da16636a143130af33"
+                        }
+                    ],
+                    "material": [
+                        {
+                            "id": 1,
+                            "value": "Steel",
+                            "_id": "65f2c8da16636a143130af34"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Plastic",
+                            "_id": "65f2c8da16636a143130af35"
+                        }
+                    ],
+                    "cost": 500,
+                    "__v": 0
+                },
+                {
+                    "_id": "65f2ca05af4481aa8db840f5",
+                    "qty": 1,
+                    "image": "prod-img1.jpg",
+                    "title": "Poultry Feed",
+                    "description": "High-quality feed for poultry birds",
+                    "specification": [
+                        {
+                            "id": 1,
+                            "value": "Weight: 20 kg",
+                            "_id": "65f2ca05af4481aa8db840f6"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Protein content: 18%",
+                            "_id": "65f2ca05af4481aa8db840f7"
+                        }
+                    ],
+                    "material": [
+                        {
+                            "id": 1,
+                            "value": "Maize",
+                            "_id": "65f2ca05af4481aa8db840f8"
+                        },
+                        {
+                            "id": 2,
+                            "value": "Soybean Meal",
+                            "_id": "65f2ca05af4481aa8db840f9"
+                        }
+                    ],
+                    "cost": 800,
+                    "__v": 0
+                }
+            ]
+        }
+    ],
+    "batchflock": [
+        {
+            "breedtype": "Boilers",
+            "total": 1330,
+            "date": "18-Jan-2024",
+            "expired": "NO",
+            "Laying": "NO",
+            "Batch No": 13,
+            "email": "smith@website.com"
+        },
+        {
+            "breedtype": "Grower",
+            "total": 145,
+            "date": "17-Jan-2024",
+            "expired": "YES",
+            "Laying": "NO",
+            "Batch No": 14,
+            "email": "smith@website.com"
+        }
+    ],
+    "egg": [
+        {
+            "batchflockid": "1234",
+            "total": 15,
+            "cracked": 2,
+            "doubleyolk": 6,
+            "dirty": 0,
+            "other": 3,
+            "staff": "Smith",
+            "date": "17-Feb-2024",
+            "email": "smith@website.com"
+        },
+        {
+            "batchflockid": "44134",
+            "total": 20,
+            "cracked": 4,
+            "doubleyolk": 6,
+            "dirty": 0,
+            "other": 3,
+            "staff": "Smith",
+            "date": "17-Feb-2024",
+            "email": "smith@website.com"
+        }
+    ],
+    "vaccination": [
+        {
+            "batchflockid": "1234",
+            "vaccine": "Newcastle Disease",
+            "name": "Mero Naam",
+            "staff": "james",
+            "date": "13-Feb-2024",
+            "reaction": "None",
+            "other": "Not Available",
+            "email": "smith@website.com"
+        },
+        {
+            "batchflockid": "1344",
+            "vaccine": "Marek's Disease",
+            "name": "Gordon",
+            "staff": "james",
+            "date": "13-Feb-2024",
+            "reaction": "OK",
+            "other": "Not Available",
+            "email": "smith@website.com"
+        }
+    ],
+    "products": [
+        {
+            "_id": "65f2c8da16636a143130af31",
+            "email": "smith@website.com",
+            "title": "Bird Cage",
+            "description": "Steel high quality cage",
+            "image": "prod-img1.jpg",
+            "specification": [
+                {
+                    "id": 1,
+                    "value": "Dimensions: 24\" x 24\" x 36\"",
+                    "_id": "65f2c8da16636a143130af32"
+                },
+                {
+                    "id": 2,
+                    "value": "Color: Black",
+                    "_id": "65f2c8da16636a143130af33"
+                }
+            ],
+            "material": [
+                {
+                    "id": 1,
+                    "value": "Steel",
+                    "_id": "65f2c8da16636a143130af34"
+                },
+                {
+                    "id": 2,
+                    "value": "Plastic",
+                    "_id": "65f2c8da16636a143130af35"
+                }
+            ],
+            "cost": 500,
+            "__v": 0
+        },
+        {
+            "_id": "65f2ca05af4481aa8db840f5",
+            "email": "smith@website.com",
+            "image": "prod-img1.jpg",
+            "title": "Poultry Feed",
+            "description": "High-quality feed for poultry birds",
+            "specification": [
+                {
+                    "id": 1,
+                    "value": "Weight: 20 kg",
+                    "_id": "65f2ca05af4481aa8db840f6"
+                },
+                {
+                    "id": 2,
+                    "value": "Protein content: 18%",
+                    "_id": "65f2ca05af4481aa8db840f7"
+                }
+            ],
+            "material": [
+                {
+                    "id": 1,
+                    "value": "Maize",
+                    "_id": "65f2ca05af4481aa8db840f8"
+                },
+                {
+                    "id": 2,
+                    "value": "Soybean Meal",
+                    "_id": "65f2ca05af4481aa8db840f9"
+                }
+            ],
+            "cost": 800,
+            "__v": 0
+        },
+        {
+            "_id": "65f2ca29af4481aa8db840fb",
+            "email": "smith@website.com",
+            "image": "prod-img1.jpg",
+            "title": "Egg Incubator",
+            "description": "Automatic egg incubator for hatching eggs",
+            "specification": [
+                {
+                    "id": 1,
+                    "value": "Capacity: 50 eggs",
+                    "_id": "65f2ca29af4481aa8db840fc"
+                },
+                {
+                    "id": 2,
+                    "value": "Temperature range: 20°C - 40°C",
+                    "_id": "65f2ca29af4481aa8db840fd"
+                }
+            ],
+            "material": [
+                {
+                    "id": 1,
+                    "value": "Plastic",
+                    "_id": "65f2ca29af4481aa8db840fe"
+                },
+                {
+                    "id": 2,
+                    "value": "Glass",
+                    "_id": "65f2ca29af4481aa8db840ff"
+                }
+            ],
+            "cost": 1500,
+            "__v": 0
+        }
+    ]
+}
